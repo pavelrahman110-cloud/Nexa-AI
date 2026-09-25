@@ -1,0 +1,126 @@
+{
+  "identity": {
+    "name": {
+      "value": "Pavel Rahman",
+      "updated": "2026-09-23"
+    },
+    "full_name": {
+      "value": "Shahinur Rahman Pavel",
+      "updated": "2026-09-22"
+    },
+    "face_description": {
+      "value": "Young Bengali man with dark, slightly wavy hair, dark eyes, and some facial hair (stubble/mustache).",
+      "updated": "2026-09-22"
+    },
+    "nickname": {
+      "value": "Pavel",
+      "updated": "2026-09-23"
+    },
+    "address_preference": {
+      "value": "formal (apni)",
+      "updated": "2026-09-22"
+    },
+    "preferred_pronoun": {
+      "value": "you",
+      "updated": "2026-09-22"
+    },
+    "user_photo": {
+      "value": "User uploaded face image",
+      "updated": "2026-09-22"
+    }
+  },
+  "preferences": {
+    "language": {
+      "value": "Bengali",
+      "updated": "2026-09-22"
+    },
+    "address_preference": {
+      "value": "formal (আপনি)",
+      "updated": "2026-09-22"
+    },
+    "login_password": {
+      "value": "105",
+      "updated": "2026-09-22"
+    },
+    "last_eaten_boss": {
+      "value": "muri",
+      "updated": "2026-09-25"
+    }
+  },
+  "projects": {},
+  "relationships": {
+    "niece_name": {
+      "value": "Parisha",
+      "updated": "2026-09-24"
+    },
+    "big_brother_shahadat": {
+      "value": "Shahadat Hossain, studies EEE at Rangpur Engineering College, big brother",
+      "updated": "2026-09-25"
+    },
+    "shahadat_relation": {
+      "value": "strictly big brother",
+      "updated": "2026-09-25"
+    }
+  },
+  "wishes": {
+    "wants_to_know_nexas_food": {
+      "value": "yes",
+      "updated": "2026-09-25"
+    }
+  },
+  "notes": {
+    "last_seen_timestamp": {
+      "value": "2026-09-26 01:21 AM",
+      "updated": "2026-09-26"
+    }
+  },
+  "sessions": [
+    {
+      "date": "2026-09-26",
+      "summary": "The user indicated that the video search Nexa attempted earlier was unsuccessful. Nexa acknowledged the issue and offered to try the search again.",
+      "language": "English"
+    },
+    {
+      "date": "2026-09-26",
+      "summary": "The user engaged Nexa in a casual greeting exchange in Bengali, correcting Nexa's name to \"Alexa.\" During the conversation, Nexa reported writing code to play low-fi music via YouTube and identified an attached image as a computer science exam from Rajshahi University.",
+      "language": "English"
+    },
+    {
+      "date": "2026-09-26",
+      "summary": "The user initiated a casual late-night chat. Music was then offered and prepared for them.",
+      "language": "English"
+    }
+  ],
+  "monitors": {
+    "follow_up_on_jokes_and_games_research": {
+      "topic": "follow-up on jokes and games research",
+      "added": "2026-09-25",
+      "last_check": "2026-09-25",
+      "last_hash": "d106cf60aa8b"
+    },
+    "ai_news": {
+      "topic": "AI news",
+      "added": "2026-09-26",
+      "last_check": "",
+      "last_hash": ""
+    },
+    "web_development_latest_tech": {
+      "topic": "web development latest tech",
+      "added": "2026-09-26",
+      "last_check": "",
+      "last_hash": ""
+    },
+    "world_politics": {
+      "topic": "world politics",
+      "added": "2026-09-26",
+      "last_check": "",
+      "last_hash": ""
+    },
+    "sports_news": {
+      "topic": "sports news",
+      "added": "2026-09-26",
+      "last_check": "",
+      "last_hash": ""
+    }
+  }
+}
