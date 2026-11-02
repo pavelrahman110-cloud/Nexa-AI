@@ -1,0 +1,10 @@
+{
+    "version": "2.1.0",
+    "release_date": "2026-11-02",
+    "download_url": "https://github.com/JoyStrics/Nexa-AI/releases/download/v2.1.0/NexaAI_Setup.exe",
+    "sha256": "",
+    "file_size": 492413120,
+    "mandatory": false,
+    "minimum_os_version": "10.0.19041",
+    "release_notes": "### Nexa AI v2.1.0\n- Automated Cloud Update System added\n- Background download & cryptographic SHA-256 integrity verification\n- Seamless silent install and in-place upgrade\n- Performance improvements & bug fixes"
+}
